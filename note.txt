@@ -1,0 +1,2 @@
+Toi dang o 1 commit dc tao KHI checkout den 1 commit 
+<-> toi dang ko o tren branch nao
